@@ -1,5 +1,7 @@
-Book Management System
-Project Overview
+Book Management System:
+
+Project Overview: 
+
 This is a RESTful web application built using Spring Boot to manage books in a bookstore system. It aims to demonstrate the development of CRUD (Create, Read, Update, Delete) APIs with robust validation, role-based security, and extensive testing.
 
 The application features:
